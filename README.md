@@ -3,6 +3,12 @@
 [![coverage](http://img.shields.io/coveralls/deepsweet/react-attrs-filter/master.svg?style=flat-square)](https://coveralls.io/r/deepsweet/react-attrs-filter)
 [![deps](http://img.shields.io/david/deepsweet/react-attrs-filter.svg?style=flat-square)](https://david-dm.org/deepsweet/react-attrs-filter)
 
+Filter React props:
+
+* `getPropsFor(tag)`
+* `filterPropsFor(props, tag)`
+* `filterPropsExcept(props, tag)`
+
 ## Install
 
 ```
